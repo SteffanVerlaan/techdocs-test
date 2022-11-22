@@ -4,9 +4,9 @@ metadata:
   name: infra-docs
   description: Test for techdocs integration
   # Example for optional annotations
-  # annotations:
+  annotations:
   #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   owner: platform
