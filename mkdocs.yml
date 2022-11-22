@@ -1,0 +1,13 @@
+site_name: 'Infra Confluence'
+site_description: 'Test to support Confluence docs with Backstage TechDocs'
+repo_url: https://github.com/SteffanVerlaan/techdocs-test
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Architecture:
+    - Databricks E2: 'architecture/databricks-e2.md'
+    - Functions and Facilities: 'architecture/functions-and-facilities.md'
+  - Barcelona Init: 'barcelona-init.md'
