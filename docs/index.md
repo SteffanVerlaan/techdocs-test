@@ -1,6 +1,6 @@
 ## test-docs
 
-Test for techdocs
+This is the starters guide for Backstage TechDocs!
 
 ## Getting started
 
