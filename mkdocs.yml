@@ -7,6 +7,7 @@ plugins:
   - techdocs-core
 
 nav:
+  - Home: 'index.md'
   - Architecture:
     - Databricks E2: 'architecture/databricks-e2.md'
     - Functions and Facilities: 'architecture/functions-and-facilities.md'
