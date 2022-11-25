@@ -26,7 +26,6 @@ Structural
 Migration types
 
 
-
 ||**Full**|**Partial**|**Structural**|
 | :- | - | - | - |
 |MWS Type|Fully managed|Structurally managed|Cannot mix with Full or Partial MWS instances|
