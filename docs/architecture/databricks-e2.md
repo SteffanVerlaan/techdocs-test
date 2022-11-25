@@ -2,7 +2,7 @@
 
 This page is intended to hold work-in-progress information for both the Databricks E2 implementation as well as Databricks-to-E2 migration.
 
-Current Actions (Parallel)
+Current Actionz (Parallel)
 
 - Use the Vent jobs and notebooks to collect required resources
   - MWS-specific configuration needs
