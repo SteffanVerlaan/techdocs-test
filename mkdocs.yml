@@ -1,7 +1,7 @@
 site_name: 'Infra Confluence'
 site_description: 'Test to support Confluence docs with Backstage TechDocs'
 repo_url: https://github.com/SteffanVerlaan/techdocs-test
-edit_uri: edit/master/docs
+edit_uri: edit/main/docs
 
 plugins:
   - techdocs-core
