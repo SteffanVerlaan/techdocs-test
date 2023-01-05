@@ -4,7 +4,7 @@ metadata:
   name: infra-docs
   description: Test for techdocs integration
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/wehkamp/backstage-docs/tree/master/service-one
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   owner: platform
